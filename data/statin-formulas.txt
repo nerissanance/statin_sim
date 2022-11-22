@@ -1,0 +1,517 @@
+$time_0
+$time_0$Censored_0
+[1] "Censored_0~sex+age+ldl+ASCVD_0+smi_0+depression_0+heart_failure_0+ckd_0+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$ASCVD_0
+[1] "ASCVD_0~sex+age+ldl+smi_0+depression_0+heart_failure_0+ckd_0+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$smi_0
+[1] "smi_0~sex+age+ldl+depression_0+heart_failure_0+ckd_0+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$depression_0
+[1] "depression_0~sex+age+ldl+heart_failure_0+ckd_0+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$heart_failure_0
+[1] "heart_failure_0~sex+age+ldl+ckd_0+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$ckd_0
+[1] "ckd_0~sex+age+ldl+liver_0+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$liver_0
+[1] "liver_0~sex+age+ldl+dementia_0+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$dementia_0
+[1] "dementia_0~sex+age+ldl+copd_0+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$copd_0
+[1] "copd_0~sex+age+ldl+cancer_0+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$cancer_0
+[1] "cancer_0~sex+age+ldl+afib_0+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$afib_0
+[1] "afib_0~sex+age+ldl+diabetes_0+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$diabetes_0
+[1] "diabetes_0~sex+age+ldl+antithrombotic_0+antihypertensive_0+Statins_0"
+
+$time_0$antithrombotic_0
+[1] "antithrombotic_0~sex+age+ldl+antihypertensive_0+Statins_0"
+
+$time_0$antihypertensive_0
+[1] "antihypertensive_0~sex+age+ldl+Statins_0"
+
+$time_0$Statins_0
+[1] "Statins_0~sex+age+ldl"
+
+
+$time_1
+$time_1$Censored_1
+[1] "Censored_1~sex+age+ldl+smi_1+depression_1+heart_failure_1+ckd_1+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$ASCVD_1
+[1] "ASCVD_1~sex+age+ldl+smi_1+depression_1+heart_failure_1+ckd_1+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$smi_1
+[1] "smi_1~sex+age+ldl+depression_1+heart_failure_1+ckd_1+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$depression_1
+[1] "depression_1~sex+age+ldl+heart_failure_1+ckd_1+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$heart_failure_1
+[1] "heart_failure_1~sex+age+ldl+ckd_1+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$ckd_1
+[1] "ckd_1~sex+age+ldl+liver_1+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$liver_1
+[1] "liver_1~sex+age+ldl+dementia_1+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$dementia_1
+[1] "dementia_1~sex+age+ldl+copd_1+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$copd_1
+[1] "copd_1~sex+age+ldl+cancer_1+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$cancer_1
+[1] "cancer_1~sex+age+ldl+afib_1+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$afib_1
+[1] "afib_1~sex+age+ldl+diabetes_1+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$diabetes_1
+[1] "diabetes_1~sex+age+ldl+antithrombotic_1+antihypertensive_1+Statins_1"
+
+$time_1$antithrombotic_1
+[1] "antithrombotic_1~sex+age+ldl+antihypertensive_1+Statins_1"
+
+$time_1$antihypertensive_1
+[1] "antihypertensive_1~sex+age+ldl+Statins_1"
+
+$time_1$Statins_1
+[1] "Statins_1~sex+age+ldl"
+
+
+$time_2
+$time_2$Censored_2
+[1] "Censored_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+smi_2+depression_2+heart_failure_2+ckd_2+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$ASCVD_2
+[1] "ASCVD_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+smi_2+depression_2+heart_failure_2+ckd_2+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$smi_2
+[1] "smi_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+depression_2+heart_failure_2+ckd_2+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$depression_2
+[1] "depression_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+heart_failure_2+ckd_2+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$heart_failure_2
+[1] "heart_failure_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+ckd_2+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$ckd_2
+[1] "ckd_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+liver_2+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$liver_2
+[1] "liver_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+dementia_2+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$dementia_2
+[1] "dementia_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+copd_2+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$copd_2
+[1] "copd_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+cancer_2+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$cancer_2
+[1] "cancer_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+afib_2+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$afib_2
+[1] "afib_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+diabetes_2+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$diabetes_2
+[1] "diabetes_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+antithrombotic_2+antihypertensive_2+Statins_2"
+
+$time_2$antithrombotic_2
+[1] "antithrombotic_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+antihypertensive_2+Statins_2"
+
+$time_2$antihypertensive_2
+[1] "antihypertensive_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1+Statins_2"
+
+$time_2$Statins_2
+[1] "Statins_2~sex+age+ldl+Statins_1+antihypertensive_1+antithrombotic_1+diabetes_1+afib_1+cancer_1+copd_1+dementia_1+liver_1+ckd_1+heart_failure_1+depression_1+smi_1"
+
+
+$time_3
+$time_3$Censored_3
+[1] "Censored_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+smi_3+depression_3+heart_failure_3+ckd_3+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$ASCVD_3
+[1] "ASCVD_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+smi_3+depression_3+heart_failure_3+ckd_3+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$smi_3
+[1] "smi_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+depression_3+heart_failure_3+ckd_3+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$depression_3
+[1] "depression_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+heart_failure_3+ckd_3+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$heart_failure_3
+[1] "heart_failure_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+ckd_3+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$ckd_3
+[1] "ckd_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+liver_3+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$liver_3
+[1] "liver_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+dementia_3+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$dementia_3
+[1] "dementia_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+copd_3+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$copd_3
+[1] "copd_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+cancer_3+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$cancer_3
+[1] "cancer_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+afib_3+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$afib_3
+[1] "afib_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+diabetes_3+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$diabetes_3
+[1] "diabetes_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+antithrombotic_3+antihypertensive_3+Statins_3"
+
+$time_3$antithrombotic_3
+[1] "antithrombotic_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+antihypertensive_3+Statins_3"
+
+$time_3$antihypertensive_3
+[1] "antihypertensive_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2+Statins_3"
+
+$time_3$Statins_3
+[1] "Statins_3~sex+age+ldl+Statins_2+antihypertensive_2+antithrombotic_2+diabetes_2+afib_2+cancer_2+copd_2+dementia_2+liver_2+ckd_2+heart_failure_2+depression_2+smi_2"
+
+
+$time_4
+$time_4$Censored_4
+[1] "Censored_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+smi_4+depression_4+heart_failure_4+ckd_4+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$ASCVD_4
+[1] "ASCVD_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+smi_4+depression_4+heart_failure_4+ckd_4+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$smi_4
+[1] "smi_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+depression_4+heart_failure_4+ckd_4+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$depression_4
+[1] "depression_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+heart_failure_4+ckd_4+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$heart_failure_4
+[1] "heart_failure_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+ckd_4+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$ckd_4
+[1] "ckd_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+liver_4+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$liver_4
+[1] "liver_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+dementia_4+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$dementia_4
+[1] "dementia_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+copd_4+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$copd_4
+[1] "copd_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+cancer_4+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$cancer_4
+[1] "cancer_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+afib_4+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$afib_4
+[1] "afib_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+diabetes_4+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$diabetes_4
+[1] "diabetes_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+antithrombotic_4+antihypertensive_4+Statins_4"
+
+$time_4$antithrombotic_4
+[1] "antithrombotic_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+antihypertensive_4+Statins_4"
+
+$time_4$antihypertensive_4
+[1] "antihypertensive_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3+Statins_4"
+
+$time_4$Statins_4
+[1] "Statins_4~sex+age+ldl+Statins_3+antihypertensive_3+antithrombotic_3+diabetes_3+afib_3+cancer_3+copd_3+dementia_3+liver_3+ckd_3+heart_failure_3+depression_3+smi_3"
+
+
+$time_5
+$time_5$Censored_5
+[1] "Censored_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+ASCVD_5+smi_5+depression_5+heart_failure_5+ckd_5+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$ASCVD_5
+[1] "ASCVD_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+smi_5+depression_5+heart_failure_5+ckd_5+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$smi_5
+[1] "smi_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+depression_5+heart_failure_5+ckd_5+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$depression_5
+[1] "depression_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+heart_failure_5+ckd_5+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$heart_failure_5
+[1] "heart_failure_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+ckd_5+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$ckd_5
+[1] "ckd_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+liver_5+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$liver_5
+[1] "liver_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+dementia_5+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$dementia_5
+[1] "dementia_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+copd_5+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$copd_5
+[1] "copd_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+cancer_5+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$cancer_5
+[1] "cancer_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+afib_5+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$afib_5
+[1] "afib_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+diabetes_5+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$diabetes_5
+[1] "diabetes_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+antithrombotic_5+antihypertensive_5+Statins_5"
+
+$time_5$antithrombotic_5
+[1] "antithrombotic_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+antihypertensive_5+Statins_5"
+
+$time_5$antihypertensive_5
+[1] "antihypertensive_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4+Statins_5"
+
+$time_5$Statins_5
+[1] "Statins_5~sex+age+ldl+Statins_4+antihypertensive_4+antithrombotic_4+diabetes_4+afib_4+cancer_4+copd_4+dementia_4+liver_4+ckd_4+heart_failure_4+depression_4+smi_4"
+
+
+$time_6
+$time_6$Censored_6
+[1] "Censored_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+ASCVD_6+smi_6+depression_6+heart_failure_6+ckd_6+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$ASCVD_6
+[1] "ASCVD_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+smi_6+depression_6+heart_failure_6+ckd_6+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$smi_6
+[1] "smi_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+depression_6+heart_failure_6+ckd_6+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$depression_6
+[1] "depression_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+heart_failure_6+ckd_6+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$heart_failure_6
+[1] "heart_failure_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+ckd_6+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$ckd_6
+[1] "ckd_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+liver_6+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$liver_6
+[1] "liver_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+dementia_6+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$dementia_6
+[1] "dementia_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+copd_6+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$copd_6
+[1] "copd_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+cancer_6+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$cancer_6
+[1] "cancer_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+afib_6+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$afib_6
+[1] "afib_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+diabetes_6+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$diabetes_6
+[1] "diabetes_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+antithrombotic_6+antihypertensive_6+Statins_6"
+
+$time_6$antithrombotic_6
+[1] "antithrombotic_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+antihypertensive_6+Statins_6"
+
+$time_6$antihypertensive_6
+[1] "antihypertensive_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5+Statins_6"
+
+$time_6$Statins_6
+[1] "Statins_6~sex+age+ldl+Statins_5+antihypertensive_5+antithrombotic_5+diabetes_5+afib_5+cancer_5+copd_5+dementia_5+liver_5+ckd_5+heart_failure_5+depression_5+smi_5+ASCVD_5+Censored_5"
+
+
+$time_7
+$time_7$Censored_7
+[1] "Censored_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+ASCVD_7+smi_7+depression_7+heart_failure_7+ckd_7+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$ASCVD_7
+[1] "ASCVD_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+smi_7+depression_7+heart_failure_7+ckd_7+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$smi_7
+[1] "smi_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+depression_7+heart_failure_7+ckd_7+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$depression_7
+[1] "depression_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+heart_failure_7+ckd_7+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$heart_failure_7
+[1] "heart_failure_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+ckd_7+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$ckd_7
+[1] "ckd_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+liver_7+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$liver_7
+[1] "liver_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+dementia_7+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$dementia_7
+[1] "dementia_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+copd_7+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$copd_7
+[1] "copd_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+cancer_7+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$cancer_7
+[1] "cancer_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+afib_7+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$afib_7
+[1] "afib_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+diabetes_7+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$diabetes_7
+[1] "diabetes_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+antithrombotic_7+antihypertensive_7+Statins_7"
+
+$time_7$antithrombotic_7
+[1] "antithrombotic_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+antihypertensive_7+Statins_7"
+
+$time_7$antihypertensive_7
+[1] "antihypertensive_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6+Statins_7"
+
+$time_7$Statins_7
+[1] "Statins_7~sex+age+ldl+Statins_6+antihypertensive_6+antithrombotic_6+diabetes_6+afib_6+cancer_6+copd_6+dementia_6+liver_6+ckd_6+heart_failure_6+depression_6+smi_6+ASCVD_6+Censored_6"
+
+
+$time_8
+$time_8$Censored_8
+[1] "Censored_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+ASCVD_8+smi_8+depression_8+heart_failure_8+ckd_8+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$ASCVD_8
+[1] "ASCVD_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+smi_8+depression_8+heart_failure_8+ckd_8+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$smi_8
+[1] "smi_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+depression_8+heart_failure_8+ckd_8+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$depression_8
+[1] "depression_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+heart_failure_8+ckd_8+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$heart_failure_8
+[1] "heart_failure_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+ckd_8+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$ckd_8
+[1] "ckd_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+liver_8+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$liver_8
+[1] "liver_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+dementia_8+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$dementia_8
+[1] "dementia_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+copd_8+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$copd_8
+[1] "copd_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+cancer_8+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$cancer_8
+[1] "cancer_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+afib_8+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$afib_8
+[1] "afib_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+diabetes_8+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$diabetes_8
+[1] "diabetes_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+antithrombotic_8+antihypertensive_8+Statins_8"
+
+$time_8$antithrombotic_8
+[1] "antithrombotic_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+antihypertensive_8+Statins_8"
+
+$time_8$antihypertensive_8
+[1] "antihypertensive_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7+Statins_8"
+
+$time_8$Statins_8
+[1] "Statins_8~sex+age+ldl+Statins_7+antihypertensive_7+antithrombotic_7+diabetes_7+afib_7+cancer_7+copd_7+dementia_7+liver_7+ckd_7+heart_failure_7+depression_7+smi_7+ASCVD_7+Censored_7"
+
+
+$time_9
+$time_9$Censored_9
+[1] "Censored_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+ASCVD_9+smi_9+depression_9+heart_failure_9+ckd_9+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$ASCVD_9
+[1] "ASCVD_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+smi_9+depression_9+heart_failure_9+ckd_9+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$smi_9
+[1] "smi_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+depression_9+heart_failure_9+ckd_9+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$depression_9
+[1] "depression_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+heart_failure_9+ckd_9+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$heart_failure_9
+[1] "heart_failure_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+ckd_9+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$ckd_9
+[1] "ckd_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+liver_9+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$liver_9
+[1] "liver_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+dementia_9+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$dementia_9
+[1] "dementia_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+copd_9+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$copd_9
+[1] "copd_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+cancer_9+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$cancer_9
+[1] "cancer_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+afib_9+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$afib_9
+[1] "afib_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+diabetes_9+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$diabetes_9
+[1] "diabetes_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+antithrombotic_9+antihypertensive_9+Statins_9"
+
+$time_9$antithrombotic_9
+[1] "antithrombotic_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+antihypertensive_9+Statins_9"
+
+$time_9$antihypertensive_9
+[1] "antihypertensive_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8+Statins_9"
+
+$time_9$Statins_9
+[1] "Statins_9~sex+age+ldl+Statins_8+antihypertensive_8+antithrombotic_8+diabetes_8+afib_8+cancer_8+copd_8+dementia_8+liver_8+ckd_8+heart_failure_8+depression_8+smi_8+ASCVD_8+Censored_8"
+
+
+$time_10
+$time_10$Censored_10
+[1] "Censored_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+ASCVD_10+smi_10+depression_10+heart_failure_10+ckd_10+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$ASCVD_10
+[1] "ASCVD_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+smi_10+depression_10+heart_failure_10+ckd_10+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$smi_10
+[1] "smi_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+depression_10+heart_failure_10+ckd_10+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$depression_10
+[1] "depression_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+heart_failure_10+ckd_10+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$heart_failure_10
+[1] "heart_failure_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+ckd_10+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$ckd_10
+[1] "ckd_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+liver_10+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$liver_10
+[1] "liver_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+dementia_10+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$dementia_10
+[1] "dementia_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+copd_10+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$copd_10
+[1] "copd_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+cancer_10+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$cancer_10
+[1] "cancer_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+afib_10+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$afib_10
+[1] "afib_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+diabetes_10+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$diabetes_10
+[1] "diabetes_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+antithrombotic_10+antihypertensive_10+Statins_10"
+
+$time_10$antithrombotic_10
+[1] "antithrombotic_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+antihypertensive_10+Statins_10"
+
+$time_10$antihypertensive_10
+[1] "antihypertensive_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9+Statins_10"
+
+$time_10$Statins_10
+[1] "Statins_10~sex+age+ldl+Statins_9+antihypertensive_9+antithrombotic_9+diabetes_9+afib_9+cancer_9+copd_9+dementia_9+liver_9+ckd_9+heart_failure_9+depression_9+smi_9+ASCVD_9+Censored_9"
+
+
