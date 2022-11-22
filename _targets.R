@@ -29,6 +29,6 @@ list(
   )
   ,tar_target(data_specs, synthesize_statins(coefs))
   ,tar_target(data,sim_data(data_specs=data_specs,
-                                         n=1000,
+                                         n=1000
                                          ))
 )
